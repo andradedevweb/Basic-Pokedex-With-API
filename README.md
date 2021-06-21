@@ -19,4 +19,4 @@ Yes, I'm currently working on a search system for the Pokemons and in the future
 * Be surprised by the amount of Pokemons there are
 
 ### Licnça
-The project is distributed under the GPL 3.0 license. See (LICENSE)[“https://github.com/gabrielossos/Basic-Pokedex-With-API/blob/main/LICENSE“] for details.
+The project is distributed under the GPL 3.0 license. See [LICENSE](“https://github.com/gabrielossos/Basic-Pokedex-With-API/blob/main/LICENSE“) for details.
