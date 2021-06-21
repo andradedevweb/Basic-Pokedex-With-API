@@ -19,4 +19,4 @@ Yes, I'm currently working on a search system for the Pokemons and in the future
 * Be surprised by the amount of Pokemons there are
 
 ### Licnça
-The project is distributed under the GPL 3.0 license. See LICENSE for details.
+The project is distributed under the GPL 3.0 license. See <a href=“http://exemplo.com/“>LICENÇA</a> for details.
