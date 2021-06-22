@@ -18,5 +18,5 @@ Yes, I'm currently working on a search system for the Pokemons and in the future
 * Know your evolutions
 * Be surprised by the amount of Pokemons there are
 
-### LICENSE
+### License
 The project is distributed under the GPL 3.0 license. See [LICENSE](“https://github.com/gabrielossos/Basic-Pokedex-With-API/blob/main/LICENSE“) for details.
